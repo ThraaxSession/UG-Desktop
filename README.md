@@ -23,8 +23,8 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 * etc.
 
 ## PoC
-- [ ] Use Hyprland as base
-- [ ] Create a basic desktop environment on top of Hyprland
+- [ ] Create window manager with Wayland libs
+- [ ] Create a basic desktop environment
 - [ ] Shows all launchers which are installed
 - [ ] Basic scripts
 - [ ] Handle / manage PIDs of launchers
