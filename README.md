@@ -22,10 +22,10 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 
 ## PoC
 
-* Create a basic desktop environment
-* Shows all launchers which are installed
-* Handle / manage PIDs of launchers
-* Basic Input Control with HHD
-* Start/Close launchers
-* Basic overlay (Start/Close launchers)
-* Basic theming
+- [ ] Create a basic desktop environment
+- [ ] Shows all launchers which are installed
+- [ ] Handle / manage PIDs of launchers
+- [ ] Basic Input Control with HHD
+- [ ] Start/Close launchers
+- [ ] Basic overlay (Start/Close launchers)
+- [ ] Basic theming
