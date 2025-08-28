@@ -14,6 +14,7 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 * Different modern themes (by day/night)
 * On game overlay
 * Selfhosting Gaming Social activies
+* Pluging System with default design system
 * Social activities by opt-in
 * Proton support for separate apps
 * Table-based overview (Launchers/Installed Games/Social Activies)
@@ -23,7 +24,8 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 
 ## PoC
 
-- [ ] Create a basic desktop environment
+- [ ] Use Hyprland as base
+- [ ] Create a basic desktop environment on top of Hyprland
 - [ ] Shows all launchers which are installed
 - [ ] Handle / manage PIDs of launchers
 - [ ] Basic Input Control with HHD
