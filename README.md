@@ -5,7 +5,7 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 
 ## Features I wish to implement
 
-* Own desktop environment based on GTK4 (with maybe Rust)
+* Own desktop environment based on GTK4 (with maybe Rust or Golang)
 * UG shall support Bazzite infrastructure as separated desktop environment to minimize resources
 * Launchers overview
 * Showing basic stats in realtime: GPU/CPU/Mem/FPS
