@@ -23,12 +23,16 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 * etc.
 
 ## PoC
-
 - [ ] Use Hyprland as base
 - [ ] Create a basic desktop environment on top of Hyprland
 - [ ] Shows all launchers which are installed
+- [ ] Basic scripts
 - [ ] Handle / manage PIDs of launchers
 - [ ] Basic Input Control with HHD
 - [ ] Start/Close launchers
 - [ ] Basic overlay (Start/Close launchers)
 - [ ] Basic theming
+- [ ] Installing on Rog Ally for testing
+
+## PoC #2
+- [ ] Packaging
