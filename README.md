@@ -18,6 +18,7 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 * Proton support for separate apps
 * Table-based overview (Launchers/Installed Games/Social Activies)
 * If wished, autostart of a specific launcher like Steam
+* Update functionality of OS and UGD (maybe with OS as it is packaged)
 * etc.
 
 ## PoC
