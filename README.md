@@ -3,11 +3,23 @@ Unified Gaming Desktop
 
 Bazzite is awesome. But I want to have an app or desktop similar experience with all my game launchers on handheld.
 
-Features I wish to implement:
+## Features I wish to implement
 
-* Own desktop environment based on GTK4
+* Own desktop environment based on GTK4 (with maybe Rust)
 * Launchers overview
 * Showing basic stats in realtime: GPU/CPU/Mem stats
 * Handheld input control (supported by HHD)
-* Different themes (by day/night)
+* Handheld friendly search
+* Different modern themes (by day/night)
 * On game overlay
+* etc.
+
+## PoC
+
+* Create a basic desktop environment
+* Shows all launchers which are installed
+* Handle / manage PIDs of launchers
+* Basic Input Control with HHD
+* Start/Close launchers
+* Basic overlay (Start/Close launchers)
+* Basic theming
