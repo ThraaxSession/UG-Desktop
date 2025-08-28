@@ -12,6 +12,8 @@ Bazzite is awesome. But I want to have an app or desktop similar experience with
 * Handheld friendly search
 * Different modern themes (by day/night)
 * On game overlay
+* Selfhosting Gaming Social activies
+* Social activities by opt-in
 * etc.
 
 ## PoC
